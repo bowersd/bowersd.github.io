@@ -1,8 +1,8 @@
+layout: home
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
 
 #I am a Visiting Scholar in the Linguistics department at the University of Arizona. Previously, I was a Lecturer in the Linguistics department at Yale University, where I taught courses in phonology and computational linguistics. You may have encountered me still earlier, when I was a post-doctoral fellow in the University of Alberta department of Linguistics, where I worked on creating spell checkers and similar tools for Cree and Ojibwe on the grant 21st Century Tools for Indigenous Languages. I earned my PhD in Linguistics at UCLA under the supervision of Bruce Hayes and Kie Zuraw.
 
