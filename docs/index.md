@@ -4,7 +4,6 @@ layout: home
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 
-#I am a Visiting Scholar in the Linguistics department at the University of Arizona. Previously, I was a Lecturer in the Linguistics department at Yale University, where I taught courses in phonology and computational linguistics. You may have encountered me still earlier, when I was a post-doctoral fellow in the University of Alberta department of Linguistics, where I worked on creating spell checkers and similar tools for Cree and Ojibwe on the grant 21st Century Tools for Indigenous Languages. I earned my PhD in Linguistics at UCLA under the supervision of Bruce Hayes and Kie Zuraw.
 
 I am a phonologist based in Arizona. I earned my PhD at UCLA under the supervision of Bruce Hayes and Kie Zuraw. I have experience helping build language resources for indigenous communities (Plains Cree and Odawa), and have publications treating the correct description of sonority driven stress and rhythmic syncope, as well as the formal language theoretic treatment of rhythmic syncope.
 
@@ -19,3 +18,4 @@ I am a collaborator on Alan Corbiere's Nishnaabe oral history project (I produce
 When I am not being an academic, I sometimes help film-makers and others create fictional languages (see the first season of the Syfy show Killjoys, and this short film). True extra-curricular interests include biofuel production and commuting by bicycle. Oh, and I dabble in programming (almost exclusively in Python) ... check out my Github site.
 ---
 
+#I am a Visiting Scholar in the Linguistics department at the University of Arizona. Previously, I was a Lecturer in the Linguistics department at Yale University, where I taught courses in phonology and computational linguistics. You may have encountered me still earlier, when I was a post-doctoral fellow in the University of Alberta department of Linguistics, where I worked on creating spell checkers and similar tools for Cree and Ojibwe on the grant 21st Century Tools for Indigenous Languages. I earned my PhD in Linguistics at UCLA under the supervision of Bruce Hayes and Kie Zuraw.
