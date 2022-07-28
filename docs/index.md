@@ -1,5 +1,5 @@
-layout: home
 ---
+layout: home
 
 I am a phonologist based in Arizona.. I have experience helping build language resources for indigenous communities (Plains Cree and Odawa), and have publications treating the correct description of sonority driven stress and rhythmic syncope, as well as the formal language theoretic treatment of rhythmic syncope.
 
@@ -12,6 +12,7 @@ Building on my penchant for applying primary field data to theoretical questions
 I am a collaborator on Alan Corbiere's Nishnaabe oral history project (I produce glossaries and lemmatization for the texts) and also support Mary Ann Corbiere and Rand Valentine's online Nishnaabemwin dictionary.
 
 When I am not being an academic, I sometimes help film-makers and others create fictional languages (see the first season of the Syfy show Killjoys, and this short film). True extra-curricular interests include biofuel production and commuting by bicycle. Oh, and I dabble in programming (almost exclusively in Python) ... check out my Github site.
+
 ---
 
 #I earned my PhD at UCLA under the supervision of Bruce Hayes and Kie Zuraw
