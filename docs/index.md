@@ -3,8 +3,6 @@ layout: home
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-
-
 I am a phonologist based in Arizona. I earned my PhD at UCLA under the supervision of Bruce Hayes and Kie Zuraw. I have experience helping build language resources for indigenous communities (Plains Cree and Odawa), and have publications treating the correct description of sonority driven stress and rhythmic syncope, as well as the formal language theoretic treatment of rhythmic syncope.
 
 My research program fits within the Kiparskian paradigm: I seek to explain (at least some of) diachronic change through the architecture of synchronic grammar. My primary focus has been on the aftermath of rhythmic syncope,  where an unremarkable sound change (the reduction and loss of unstressed syllables from iterative feet) triggers far-reaching restructuring in the morphophonological grammar. Richard Rhodes' lexicographic work (published in 1985) provides clear evidence of rapid restructuring in Nishnaabemwin (an acutely endangered cluster of dialects of the Algonquian language Ojibwe).  My work has expanded the descriptive picture with comprehensive field data and opened the way to a formal language theoretic explanation for the phonological catastrophe.  See especially my 2019 paper in Phonology and my  work from 2019-2020 with Yiding Hao on the Academic Output page.
