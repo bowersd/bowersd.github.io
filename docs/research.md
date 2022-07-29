@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+[Home](./index.md)
+* * *
 Papers, slides, posters presented in chronological order. Please contact me with any questions or troubles with access.
 
 # Papers
