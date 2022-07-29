@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+[Research](./research.md)
+* * *
 I am a phonologist based in Arizona. I help build language resources for indigenous communities (Odawa/Nishnaabemwin especially, but also Plains Cree), and I also pursue empirical/formal investigations of topics in phonological theory.
 
 My research program fits within the Kiparskian paradigm: I seek to explain (at least some of) diachronic change through the architecture of synchronic grammar. My primary focus has been on the aftermath of rhythmic syncope,  where an unremarkable sound change (the reduction and loss of unstressed syllables from iterative feet) triggers far-reaching restructuring in the morphophonological grammar. Richard Rhodes' lexicographic work (published in 1985) provides clear evidence of rapid restructuring in Nishnaabemwin (an acutely endangered cluster of dialects of the Algonquian language Ojibwe).  My work has expanded the descriptive picture with comprehensive field data and opened the way to a formal language theoretic explanation for the phonological catastrophe.  See especially my 2019 paper in Phonology and my  work from 2019-2020 with Yiding Hao on the Academic Output page.
