@@ -9,9 +9,9 @@ My research program fits within the Kiparskian paradigm: I seek to explain (at l
 
 I must stress that I cannot be credited with first observing the empirical phenomenon of post-rhythmic syncope restructuring. For Irish, Nishnaabemwin and East Slavic, there are published works highlighting these facts dating from the 1970's. Please see the references in my papers.
 
-Building on my penchant for applying primary field data to theoretical questions, I did an acoustic study looking for correlates of stress in Gujarati, about which some theoretical arguments on sonority-driven stress had been made. My 2019 paper in Phonological Data and Analysis found no empirical support for the theoretical claims.
+In another vein of work, I did an acoustic study looking for correlates of stress in Gujarati, about which some theoretical arguments on sonority-driven stress had been made. My 2019 paper in Phonological Data and Analysis found no empirical support for the theoretical claims.
 
-I am a collaborator on Alan Corbiere's Nishnaabe oral history project (I produce glossaries and lemmatization for the texts) and also support Mary Ann Corbiere and Rand Valentine's online Nishnaabemwin dictionary.
+I am a collaborator on Alan Corbiere's Nishnaabe oral history project (I produce glossaries and lemmatization for the texts) and also support Mary Ann Corbiere and Rand Valentine's [online Nishnaabemwin dictionary](https://dictionary.nishnaabemwin.atlas-ling.ca/#/help).
 
 When I am not being an academic, I sometimes help film-makers and video game studios create fictional languages (see the first season of the Syfy show [Killjoys](https://www.syfy.com/killjoys), and [Copper Age](https://www.imdb.com/title/tt3198208/?ref_=nm_knf_t2)). True extra-curricular interests include biofuel production and commuting by bicycle. Oh, and I dabble in programming (almost exclusively in Python) ... check out my [Github site](https://github.com/bowersd).
 
