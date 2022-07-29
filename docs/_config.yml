@@ -16,7 +16,7 @@
 title: Dustin Bowers, PhD
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Dustin Bowers' personal website. Features phonological research and my goings on.
+  Dustin Bowers' personal website. Features phonological research, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: bowersd.github.io
 url: https://bowersd.github.io # the base hostname & protocol for your site, e.g. http://example.com
