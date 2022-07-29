@@ -31,7 +31,7 @@ Papers, slides, posters presented in chronological order. Please contact me with
   - [Download](./research/2019 - Bowers Irish Phonological Restructuring.pdf)
 - 2019 Dustin Bowers. Irish Nishnaabemwin Parallels. Invited presentation to Chronologicon Hibernium. Maynooth University. November 13, 2019.
   - [Download](./research/2019 - Bowers Irish Nishnaabemwin Paralells.pdf)
-- 2019 Dustin Bowers and Yiding Hao. Rhythmic Syncope in Subregular Phonology. Oral presentation to Penn Linguistics Conference. University of Pennsylvania. March 2019.
+- 2019 Dustin Bowers and Yiding Hao. Rhythmic Syncope in Subregular Phonology. Oral presentation to Penn Linguistics Conference. University of Pennsylvania. March 23, 2019.
   - _Regretably, these slides were lost_
 - 2018 Dustin Bowers and Yiding Hao. Rhythmic Syncope and Strict Locality in Subregular Phonology. Oral presentation to SYNC. Stony Brook University. December 1, 2018.
   - [Download](./research/2018 - Bowers and Hao Rhythmic Syncope and Strict Locality in Subregular Phonology.pdf)
@@ -45,7 +45,7 @@ Papers, slides, posters presented in chronological order. Please contact me with
   - [Download](./research/2015 - Bowers Balancing Leveling and Cobbled URs.pdf)
 - 2014 Dustin Bowers. Rhythmic Syncope and Phonological Restructuring. Invited presentation to USC Advanced Phonology Course. April 1, 2014.
   - [Download](./research/2014 - Bowers Rhythmic Syncope and Phonological Restructuring.pdf)
-- 2014 Dustin Bowers. Balancing Leveling and Composite URs. Oral presentation to Annual Meeting on Phonology. September 20, 2014.
+- 2014 Dustin Bowers. Balancing Leveling and Composite URs. Oral presentation to The Annual Meeting on Phonology. September 20, 2014.
   - [Download](./research/2014 - Bowers Balancing Leveling and Composite URs.pdf)
 - 2013 Dustin Bowers. Phonological Restructuring in Odawa. Oral presentation to Chicago Linguistic Society. April 19, 2013.
   - [Download](./research/2013 - Bowers Phonological Restructuring in Odawa.pdf)
@@ -53,3 +53,9 @@ Papers, slides, posters presented in chronological order. Please contact me with
   - [Download](./research/2012 - Bowers Phonological Restructuring in Odawa.pdf)
 
 # Posters
+- 2017 Dustin Bowers. Restructuring Regular Phonology: Lessons from Odawa. Poster presented at WCCFL 35. April 29, 2017.
+  - [Download](./research/2017 - Bowers Restructuring Regular Phonology Poster.pdf)
+- 2016 Dustin Bowers. Gujarati Stress: A Failure to Replicate. Poster presented at The Annual Meeting on Phonolgy. October 22, 2016.
+  - [Download](./research/2016 - Bowers Gujarati Stress A Failure to Replicate Poster.pdf)
+- 2015 Dustin Bowers. Learning Composite Representations. Poster presented at The 89th Annual Meeting of the Linguistic Society of America. January 9, 2015.
+  - [Download](./research/2015 - Bowers Learning Composite Representations Poster.pdf)
