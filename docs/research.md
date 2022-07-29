@@ -55,7 +55,7 @@ Papers, slides, posters presented in chronological order. Please contact me with
 # Posters
 - 2017 Dustin Bowers. Restructuring Regular Phonology: Lessons from Odawa. Poster presented at WCCFL 35. April 29, 2017.
   - [Download](./research/2017 - Bowers Restructuring Regular Phonology Poster.pdf)
-- 2016 Dustin Bowers. Gujarati Stress: A Failure to Replicate. Poster presented at The Annual Meeting on Phonolgy. October 22, 2016.
+- 2016 Dustin Bowers. Gujarati Stress: A Failure to Replicate. Poster presented at The Annual Meeting on Phonology. October 22, 2016.
   - [Download](./research/2016 - Bowers Gujarati Stress A Failure to Replicate Poster.pdf)
 - 2015 Dustin Bowers. Learning Composite Representations. Poster presented at The 89th Annual Meeting of the Linguistic Society of America. January 9, 2015.
   - [Download](./research/2015 - Bowers Learning Composite Representations Poster.pdf)
