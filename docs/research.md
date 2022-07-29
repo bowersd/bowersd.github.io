@@ -32,7 +32,7 @@ Papers, slides, posters presented in chronological order. Please contact me with
 - 2019 Dustin Bowers. Irish Nishnaabemwin Parallels. Invited presentation to Chronologicon Hibernium. Maynooth University. November 13, 2019.
   - [Download](./research/2019 - Bowers Irish Nishnaabemwin Paralells.pdf)
 - 2019 Dustin Bowers and Yiding Hao. Rhythmic Syncope in Subregular Phonology. Oral presentation to Penn Linguistics Conference. University of Pennsylvania. March 23, 2019.
-  - _Regretably, these slides were lost_
+  - _Regrettably, these slides were lost_
 - 2018 Dustin Bowers and Yiding Hao. Rhythmic Syncope and Strict Locality in Subregular Phonology. Oral presentation to SYNC. Stony Brook University. December 1, 2018.
   - [Download](./research/2018 - Bowers and Hao Rhythmic Syncope and Strict Locality in Subregular Phonology.pdf)
 - 2017 Alan Corbiere and Dustin Bowers. Nakaazdaa Dbaajmowinan: Digitized and Analyzed Stories. Oral presentation to Anishinaabemowin Teg. March 2017.
