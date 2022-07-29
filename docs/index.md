@@ -9,7 +9,7 @@ My primary focus is on explaining the aftermath of rhythmic syncope. In a nutshe
 
 I must stress that I cannot be credited with first observing the empirical phenomenon of post-rhythmic syncope restructuring. For Irish, Nishnaabemwin and East Slavic, there are published works highlighting these facts dating from the 1970's. Please see the references in my papers.
 
-In another vein of work, I did an acoustic study looking for correlates of stress in Gujarati, about which some theoretical arguments on sonority-driven stress had been made. My 2019 paper in Phonological Data and Analysis found no empirical support for the theoretical claims.
+My work on Gujarati looked for acoustic correlates of sonority driven stress, but I could not find the reported correlates from impressionistic studies.
 
 I am a collaborator on Alan Corbiere's Nishnaabe oral history project (I produce glossaries and lemmatization for the texts) and also support Mary Ann Corbiere and Rand Valentine's [online Nishnaabemwin dictionary](https://dictionary.nishnaabemwin.atlas-ling.ca/#/help).
 
