@@ -3,7 +3,7 @@ layout: default
 ---
 [Research](./research.md)
 * * *
-I am a phonologist based in Arizona. I help build language resources for indigenous communities (Odawa/Nishnaabemwin especially, but also Plains Cree), and I also pursue empirical/formal investigations of topics in phonological theory.
+I am a phonologist based in Arizona. I help build language resources for indigenous communities (Odawa/Nishnaabemwin especially, but also Plains Cree), and I pursue empirical/formal investigations of topics in phonological theory. I also have background as a Quality Assurance linguist at Lionbridge. Also, see my coding at my [Github page](https://github.com/bowersd).
 
 My primary focus is on explaining the aftermath of rhythmic syncope. In a nutshell, an unremarkable sound change (the reduction and loss of unstressed syllables from iterative feet) triggers far-reaching restructuring in the morphophonological grammar. Such restructuring can minimally be seen in Nishnaabemwin and Irish, and I hypothesize that this is due to the nature of phonological competence. 
 
@@ -13,5 +13,5 @@ My work on Gujarati looked for acoustic correlates of sonority driven stress, bu
 
 I am a collaborator on Alan Corbiere's Nishnaabe oral history project (I produce glossaries and lemmatization for the texts) and also support Mary Ann Corbiere and Rand Valentine's [online Nishnaabemwin dictionary](https://dictionary.nishnaabemwin.atlas-ling.ca/#/help).
 
-When I am not being an academic, I sometimes help film-makers and video game studios create fictional languages (see the first season of the Syfy show [Killjoys](https://www.syfy.com/killjoys), and [Copper Age](https://www.imdb.com/title/tt3198208/?ref_=nm_knf_t2)). True extra-curricular interests include biofuel production and commuting by bicycle. Oh, and I dabble in programming (almost exclusively in Python) ... check out my [Github site](https://github.com/bowersd).
+When I am not being an academic, I sometimes help film-makers and video game studios create fictional languages (see the first season of the Syfy show [Killjoys](https://www.syfy.com/killjoys), and [Copper Age](https://www.imdb.com/title/tt3198208/?ref_=nm_knf_t2)). True extra-curricular interests include biofuel production and commuting by bicycle. 
 
