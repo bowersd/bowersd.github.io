@@ -8,6 +8,7 @@ Papers, slides, posters presented in chronological order. Please contact me with
 # Papers
 - 2022 Dustin Bowers and Elliott Lash. The Instability of Rhythmic Syncope in Irish: Insights from Latin Loanwords. Unpublished ms. University of Arizona and Goettingen University.
   - [Download](./research/BowersLash22LatinLoansInIrish.pdf)
+  - [Github repo](https://github.com/bowersd/lat2sgaLoans)
 - 2020 Dustin Bowers and Yiding Hao. Rhythmic Syncope in Subregular Phonology. University of Pennsylvania Working Papers in Linguistics: Vol. 26 : Iss. 1 , Article 7.
   - [Download](https://repository.upenn.edu/pwpl/vol26/iss1/7)
 - 2019 Dustin Bowers. The Nishnaabemwin restructuring controversy: New empirical evidence. Phonology, 36(2), 187-224. doi:10.1017/S0952675719000113
