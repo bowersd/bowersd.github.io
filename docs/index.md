@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 I am a phonologist based in Arizona. I have experience helping build language resources for indigenous communities (Plains Cree and Odawa), and have publications treating the correct description of sonority driven stress and rhythmic syncope, as well as the formal language theoretic treatment of rhythmic syncope.
