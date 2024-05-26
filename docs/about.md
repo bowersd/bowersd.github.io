@@ -3,7 +3,7 @@ layout: default
 title: About My Work
 permalink: /about/
 ---
-[Papers](./papers.md) [About My Work](./about.md)
+[Home](./index.md) [Papers](./papers.md)
 * * *
 #### My Career (briefly)
 

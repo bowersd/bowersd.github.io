@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](./index.md)
+[Home](./index.md) [About My Work](./about.md)
 * * *
 Papers, slides, posters presented in chronological order. Please contact me with any questions or troubles with access.
 
