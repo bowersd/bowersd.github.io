@@ -14,5 +14,4 @@ I must stress that I was not the first to observe post-rhythmic syncope restruct
 
 I am a collaborator on Alan Corbiere's Nishnaabe oral history project (I produce glossaries and lemmatization for the texts) and also support Mary Ann Corbiere and Rand Valentine's [online Nishnaabemwin dictionary](https://dictionary.nishnaabemwin.atlas-ling.ca/#/help).
 
-When I am not being an academic, I sometimes help film-makers and video game studios create fictional languages (see the first season of the Syfy show [Killjoys](https://www.syfy.com/killjoys), and [Copper Age](https://www.imdb.com/title/tt3198208/?ref_=nm_knf_t2)). True extra-curricular interests include being Daddy to my adored son, camping, skiing, board games, park picnics, and living so as not to worsen the climate crisis. 
 
