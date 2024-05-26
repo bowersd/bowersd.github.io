@@ -3,6 +3,8 @@ layout: default
 title: About My Work
 permalink: /about/
 ---
+[Research](./research.md) [About My Work](./about.md)
+* * *
 #### My Career (briefly)
 
 In 2023-2024 I had a fellowship with the Dynamic Language Infrastructure: Documenting Endangered Languages program under the National Endowment for the Humanities (paired with a Visiting Scholar appointment at Reed College). This fellowship was focused on lemmatizing Nishnaabemwin texts using a [parser](https://github.com/bowersd/otw), and making the resulting analyses available on the [Nishnaabemwin Online Dictionary](https://dictionary.nishnaabemwin.atlas-ling.ca/#/credits) and in [Alan Ojiig Corbiere's](https://profiles.laps.yorku.ca/profiles/ojiigcor/) forthcoming book *M'Chigeeng Dbaajmowinan*. This work builds on the post-doc I had between 2015-2017 at the University of Alberta, where I started developing the parser. In terms of the rest of my prior career, I also taught at Yale (2017-2018), had a Visiting Scholar appointment at the University of Arizona (2017-2022), and earned my PhD at UCLA (2010-2015) under [Bruce Hayes](https://linguistics.ucla.edu/people/hayes/) and [Kie Zuraw](https://kiezuraw.com/).
