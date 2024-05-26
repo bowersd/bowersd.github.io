@@ -6,8 +6,8 @@ layout: default
 Papers, slides, posters presented in chronological order. Please contact me with any questions or troubles with access.
 
 # Papers
-- 2022 Dustin Bowers and Elliott Lash. The Instability of Rhythmic Syncope in Irish: Insights from Latin Loanwords. Unpublished ms. University of Arizona and Goettingen University.
-  - [Download](./research/BowersLash22LatinLoansInIrish.pdf)
+- 2024 Dustin Bowers and Elliott Lash. Assessing the Pace of Language Change via Estimated Loan Word Volumes: Implications for Irish. Accepted pending revisions to Phonological Data and Analysis.
+  - [Download](./research/2024 - Bowers Lash Assessing the Pace of Language Change via Estimated Loan Word Volumes: Implications for Irish.pdf)
   - [Github repo](https://github.com/bowersd/lat2sgaLoans)
 - 2020 Dustin Bowers and Yiding Hao. Rhythmic Syncope in Subregular Phonology. University of Pennsylvania Working Papers in Linguistics: Vol. 26 : Iss. 1 , Article 7.
   - [Download](https://repository.upenn.edu/pwpl/vol26/iss1/7)
