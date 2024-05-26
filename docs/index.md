@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Research](./research.md) [About My Work](./about.md)
+[Papers](./papers.md) [About My Work](./about.md)
 * * *
 
 I am a phonologist based in Eugene, Oregon. I help build language resources for indigenous communities (Odawa/Nishnaabemwin), and I pursue empirical/formal investigations of topics in phonological theory. I also have background as a Quality Assurance linguist at Lionbridge/Telus AI. Also, see my coding at my [Github page](https://github.com/bowersd).
