@@ -36,6 +36,7 @@ Papers, slides, posters presented in chronological order. Please contact me with
 - 2024 Alan Corbiere and Dustin Bowers. Enhanced Nishnaabemwin Teaching. Oral presentation to Rainbow School District Nishnaabemwin Instructors. Sudbury, Ontario. November 20, 2024.
   - [Download](./research/2024 - CorbiereBowers Enhanced Nishnaabemwin Teaching.pdf)
 - 2024 Alan Corbiere, Dustin Bowers, Netawn Kiogima. Analyzed Nishnaabemwin Dbaajmownan. Oral presentation to Symposium on American Indian Languages. University of Arizona. April 4, 2024.
+  - [Download](./research/2024 - CorbiereBowersKiogima Analyzed Nishnaabemwin Dbaajmownan.pdf)
 - 2019 Dustin Bowers. Irish Phonological Restructuring. Oral presentation to Tionol. Dublin Institute of Advanced Studies. November 16, 2019.
   - [Download](./research/2019 - Bowers Irish Phonological Restructuring.pdf)
 - 2019 Dustin Bowers. Irish Nishnaabemwin Parallels. Invited presentation to Chronologicon Hibernium. Maynooth University. November 13, 2019.
