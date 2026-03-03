@@ -27,6 +27,12 @@ Papers, slides, posters presented in chronological order. Please contact me with
   - [Download](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.658.4843&rep=rep1&type=pdf)
 
 # Slides
+- 2026 Rachel Manitowabi, Alan Corbiere and Dustin Bowers. Teaching a Story with an Analyzer. Oral presentation for Ojibwe Cultural Foundation's Sweyaajmodaa Project. March 2, 2026.
+  - [Download](./research/2026 - ManitowabiCorbiereBowers Teaching a Story with an Analyzer.pdf)
+- 2026 Rachel Manitowabi, Alan Corbiere and Dustin Bowers. Anishinaabemowin Analysis for Educators: Conjugator. Oral presentation for Ojibwe Cultural Foundation's Sweyaajmodaa Project. February 2, 2026.
+  - [Download](./research/2026 - ManitowabiCorbiereBowers Anishinaabemowin Analysis for Educators: Conjugator.pdf)
+- 2025 Rachel Manitowabi, Alan Corbiere and Dustin Bowers. Anishinaabemowin Analysis for Educators. Oral presentation for Ojibwe Cultural Foundation's Sweyaajmodaa Project. November 24, 2025.
+  - [Download](./research/2025 - ManitowabiCorbiereBowers Anishinaabemowin Analysis for Educators.pdf)
 - 2024 Alan Corbiere and Dustin Bowers. Enhanced Nishnaabemwin Teaching. Oral presentation to Rainbow School District Nishnaabemwin Instructors. Sudbury, Ontario. November 20, 2024.
   - [Download](./research/2024 - CorbiereBowers Enhanced Nishnaabemwin Teaching.pdf)
 - 2024 Alan Corbiere, Dustin Bowers, Netawn Kiogima. Analyzed Nishnaabemwin Dbaajmownan. Oral presentation to Symposium on American Indian Languages. University of Arizona. April 4, 2024.
