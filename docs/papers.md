@@ -21,7 +21,7 @@ Papers, slides, posters presented in chronological order. Please contact me with
   - [Download](https://aclanthology.org/W17-0101.pdf)
 
 # Dissertations/Theses
-- 2015 Dustin Bowers. Phonological Restructuring in Odawa. UCLA master's thesis.
+- 2015 Dustin Bowers. A System for Morphophonological Learning and its Consequences for Language Change. UCLA PhD Dissertation.
   - [Download](https://escholarship.org/content/qt1jr5w4qk/qt1jr5w4qk.pdf)
 - 2012 Dustin Bowers. Phonological Restructuring in Odawa. UCLA master's thesis.
   - [Download](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.658.4843&rep=rep1&type=pdf)
